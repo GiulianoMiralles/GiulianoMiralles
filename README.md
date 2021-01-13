@@ -4,7 +4,12 @@
 
 Soy un programador junior, enfocado en la parte de backend, pero poseo conocimientos en React, React-Native, NodeJS, Angular. Manejo bases de datos como MySql. Experimente metodologías ágiles como SCRUM. 
 
-Skills: 🟢Python → Flask. 🟡JavaScript →React, React Native, NodeJS & Angular. 🔵 PHP → Laravel. 🟠 HTML & CSS. 🟣MySql
+Skills: 
+  🟢Python → Flask. 
+  🟡JavaScript →React, React Native, NodeJS & Angular. 
+  🔵 PHP → Laravel. 
+  🟠 HTML & CSS. 
+  🟣MySql
 
 - 🔭 I’m currently working on Open to work 
 - 📫 How to reach me: giuliano.miralles@gmail.com 
