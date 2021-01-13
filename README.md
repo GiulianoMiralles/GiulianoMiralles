@@ -5,7 +5,7 @@
 Soy un programador junior, enfocado en la parte de backend, pero poseo conocimientos en React, React-Native, NodeJS, Angular. Manejo bases de datos como MySql. Experimente metodologías ágiles como SCRUM. 
 
 Skills: 
-  🟢Python → Flask. 
+  🟢Python → Flask. "\n"
   🟡JavaScript →React, React Native, NodeJS & Angular. 
   🔵 PHP → Laravel. 
   🟠 HTML & CSS. 
