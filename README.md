@@ -2,7 +2,7 @@
 #### Software developer 💻
 <img src="https://i.imgur.com/9rZZ2kD.png"/>
 
-Soy un programador junior, enfocado en la parte de backend, pero poseo conocimientos en React, React-Native, NodeJS, Angular. Manejo bases de datos como MySql. Experimente metodologías ágiles como SCRUM. 
+I am a junior programmer, focused on the backend part, but I have knowledge in React, React-Native, NodeJS, Angular. I handle databases like MySql. Experience agile methodologies like SCRUM. 
 
 Skills: 
  - 🟢 Python → Flask. 
