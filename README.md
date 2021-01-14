@@ -6,7 +6,7 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
 
 Skills: 
  - 🟢 Python → Flask. 
- <img src="https://img.shields.io/?style=for-the-badge&logo=appveyor/JavaScript-React, React Native, NodeJS & Angular-yellow"/>
+ <img src="https://img.shields.io/badge/JavaScript-React, React Native, NodeJS & Angular-yellow"/>
  
 
  
