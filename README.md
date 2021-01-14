@@ -4,12 +4,12 @@
 
 I am a junior programmer, focused on the backend part, but I have knowledge in React, React-Native, NodeJS, Angular. I handle databases like MySql. Experience agile methodologies like SCRUM. 
 
-Skills: 
+##Skills: 
  - 🟢 Python → Flask. 
+ ![python](https://img.shields.io/badge/Python-5cb85c?style=forthebadge&logo=python&logoColor=white&labelColor=101010)]</br>
  - 🟡 <img src="https://img.shields.io/badge/JavaScript-React, React Native, NodeJS & Angular-yellow"/>
  
  
-  - 🟡 <img src="https://img.shields.io/?style=for-the-badge&logo=appveyor"/>
  
  
 
@@ -17,9 +17,6 @@ Skills:
 
  
  
-
- 
- JavaScript → React, React Native, NodeJS & Angular. 
  - 🔵 PHP → Laravel. 
  - 🟠 HTML & CSS. 
  - 🟣 MySql
