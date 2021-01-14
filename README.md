@@ -13,7 +13,7 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
  
 ![JavaScript](https://img.shields.io/badge/JavaScript_→_React_ReactNative_NodeJS_&_Angular-yellow?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=101010)</br> 
  
-![HTML](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)</br> 
+![HTML](https://img.shields.io/badge/html-5-orange?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)</br> 
 
 ![CSS](https://img.shields.io/badge/CSS3-red?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)</br>  
  
