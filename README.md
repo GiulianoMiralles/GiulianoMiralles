@@ -9,7 +9,7 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
  
   ![JavaScript](https://img.shields.io/badge/JavaScript→React,ReactNative,NodeJS&Angular-yellow?style=forthebadge&logo=Javascript&logoColor=white&labelColor=101010)</br> 
  
-   ![PHP](https://img.shields.io/badge/PHP→Laravel-0275d8?style=forthebadge&logo=Javascript&logoColor=white&labelColor=101010)</br> 
+   ![PHP](https://img.shields.io/badge/PHP→Laravel-0275d8?style=forthebadge&logo=Laravel&logoColor=white&labelColor=101010)</br> 
  
  
 
