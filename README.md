@@ -6,14 +6,14 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
 
 Skills: 
  - 🟢 Python → Flask. 
- <img src="https://img.shields.io/badge/JavaScript-React, React Native, NodeJS & Angular-yellow-?style=for-the-badge&logo=appveyor"/>
+ - 🟡 <img src="https://img.shields.io/badge/JavaScript-React, React Native, NodeJS & Angular-yellow-"/>
  
 
  
  
 
  
- - 🟡 JavaScript → React, React Native, NodeJS & Angular. 
+ JavaScript → React, React Native, NodeJS & Angular. 
  - 🔵 PHP → Laravel. 
  - 🟠 HTML & CSS. 
  - 🟣 MySql
