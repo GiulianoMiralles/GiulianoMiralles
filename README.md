@@ -30,6 +30,14 @@ I am a programmer, I studied at ITEC, currently focused on the backend part, but
 
 - <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giulianomiralles)](https://github.com/anuraghazra/github-readme-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=giulianomiralles)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/giulianomiralles)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giulianomiralles)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=giulianomiralles&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/giulianomiralles)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=giulianomiralles)  
+
+![Profile views](https://gpvc.arturio.dev/giulianomiralles)   
