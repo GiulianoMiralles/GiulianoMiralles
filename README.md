@@ -15,7 +15,7 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
  
 ![HTML](https://img.shields.io/badge/HTML-orange?style=forthebadge&logo=html&logoColor=white&labelColor=101010)</br> 
 
-![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=101010)</br>  
+![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)</br>  
  
 
 
