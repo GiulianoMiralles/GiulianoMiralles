@@ -6,9 +6,9 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
 
 Skills: 
  - 🟢 Python → Flask. 
- <img src="https://img.shields.io/badge/JavaScript-React, React Native, NodeJS & Angular-yellow"/>
+ <img src="https://img.shields.io/badge/?style=for-the-badge&logo=appveyor/JavaScript-React, React Native, NodeJS & Angular-yellow"/>
  
-  <img src=" https://img.shields.io/badge/dynamic/yaml?url=<URL>&label=Python&query=<Flask>&color=green&prefix=<PREFIX>&suffix=<SUFFIX>"/>
+
  
  
 
