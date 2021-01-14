@@ -11,11 +11,11 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
 
 ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white&labelColor=101010)</br>
  
-![JavaScript](https://img.shields.io/badge/JavaScript_→_React_ReactNative_NodeJS_&_Angular-yellow?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=101010)</br> 
+![JavaScript](https://img.shields.io/badge/JavaScript_→_React_ReactNative_NodeJS_&_Angular-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=101010)</br> 
  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)</br> 
 
-![CSS](https://img.shields.io/badge/CSS3-red?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)</br>  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)</br>  
  
 
 
