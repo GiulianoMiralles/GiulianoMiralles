@@ -7,7 +7,7 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
 ## Skills: </br> 
 ![python](https://img.shields.io/badge/Python_→_Flask-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br> 
 
-![PHP](https://img.shields.io/badge/PHP_→_Laravel-0275d8?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)</br> 
+![PHP](https://img.shields.io/badge/PHP_→_Laravel-777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)</br> 
 
 ![MySql](https://img.shields.io/badge/MySql-5644a0?style=for-the-badge&logo=Mysql&logoColor=white&labelColor=101010)</br>
  
