@@ -2,7 +2,7 @@
 #### Software developer 💻
 <img src="https://i.imgur.com/9rZZ2kD.png"/>
 
-I am a junior programmer, focused on the backend part, but I have knowledge in React, React-Native, NodeJS, Angular. I handle databases like MySql. Experience agile methodologies like SCRUM. 
+I am a programmer, I studied at ITEC, currently focused on the backend part, but I have a lot of knowledge in React, React-Native, NodeJS, Angular. I handle databases like MySql. Experience agile methodologies like SCRUM. I have experience in both web and mobile programming.
 
 ## Skills: </br> 
 ![python](https://img.shields.io/badge/Python_→_Flask-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br> 
