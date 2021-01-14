@@ -5,13 +5,13 @@
 I am a junior programmer, focused on the backend part, but I have knowledge in React, React-Native, NodeJS, Angular. I handle databases like MySql. Experience agile methodologies like SCRUM. 
 
 ## Skills: </br> 
-![python](https://img.shields.io/badge/Python→Flask-5cb85c?style=forthebadge&logo=Python&logoColor=white&labelColor=101010)</br> 
+![python](https://img.shields.io/badge/Python_→_Flask-5cb85c?style=forthebadge&logo=Python&logoColor=white&labelColor=101010)</br> 
 
-![PHP](https://img.shields.io/badge/PHP→Laravel-0275d8?style=forthebadge&logo=Laravel&logoColor=white&labelColor=101010)</br> 
+![PHP](https://img.shields.io/badge/PHP_→_Laravel-0275d8?style=forthebadge&logo=Laravel&logoColor=white&labelColor=101010)</br> 
 
 ![MySql](https://img.shields.io/badge/MySql-5644a0?style=forthebadge&logo=Mysql&logoColor=white&labelColor=101010)</br>
  
-![JavaScript](https://img.shields.io/badge/JavaScript→React,ReactNative,NodeJS&Angular-yellow?style=forthebadge&logo=Javascript&logoColor=white&labelColor=101010)</br> 
+![JavaScript](https://img.shields.io/badge/JavaScript_→_React_ReactNative_NodeJS_&_Angular-yellow?style=forthebadge&logo=Javascript&logoColor=white&labelColor=101010)</br> 
  
 ![HTML](https://img.shields.io/badge/HTML-orange?style=forthebadge&logo=html&logoColor=white&labelColor=101010)</br> 
 
