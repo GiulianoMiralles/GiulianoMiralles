@@ -8,6 +8,12 @@ Skills:
  - 🟢 Python → Flask. 
  - 🟡 <img src="https://img.shields.io/badge/JavaScript-React, React Native, NodeJS & Angular-yellow"/>
  
+ 
+  - 🟡 <img src="https://img.shields.io/?style=for-the-badge&logo=appveyor"/>
+ 
+ 
+
+ 
 
  
  
