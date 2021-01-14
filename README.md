@@ -8,6 +8,11 @@ Skills:
  - 🟢 Python → Flask. 
  <img src="https://img.shields.io/badge/JavaScript-React, React Native, NodeJS & Angular-yellow"/>
  
+  <img src=" https://img.shields.io/badge/dynamic/yaml?url=<URL>&label=Python&query=<Flask>&color=green&prefix=<PREFIX>&suffix=<SUFFIX>"/>
+ 
+ 
+
+ 
  - 🟡 JavaScript → React, React Native, NodeJS & Angular. 
  - 🔵 PHP → Laravel. 
  - 🟠 HTML & CSS. 
