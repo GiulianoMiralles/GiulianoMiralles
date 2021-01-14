@@ -20,7 +20,7 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
 
 
 
-- 🔭 I’m currently working on Open to work 
+- 🔭 I am currently looking for work
 - 📫 How to reach me: giuliano.miralles@gmail.com 
 
 
