@@ -1,6 +1,23 @@
 ### Hi there 👋, hello there my name is Giuliano Miralles! 
 #### Software developer 💻
-<img src="https://i.imgur.com/9rZZ2kD.png"/>
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title> Giuliano Miralles github profile </title>
+</head>
+
+<body>
+
+    <h1> Welcome to my github profile! </h1>
+
+</body>
+
+</html>
+```
+
 
 I am a programmer, I studied at ITEC, currently focused on the backend part, but I have a lot of knowledge in React, React-Native, NodeJS, Angular. I handle databases like MySql. Experience agile methodologies like SCRUM. I have experience in both web and mobile programming.
 
