@@ -8,7 +8,7 @@ I am a junior programmer, focused on the backend part, but I have knowledge in R
  ![python](https://img.shields.io/badge/Python→Flask-5cb85c?style=forthebadge&logo=Python&logoColor=white&labelColor=101010)</br> 
  - 🟡 <img src="https://img.shields.io/badge/javascript-React,React Native,NodeJS,Angular-yellow"/>
  
-  ![JavaScript](https://img.shields.io/badge/JS→React,ReactNative,NodeJS&Angular-yellow?style=forthebadge&logo=Python&logoColor=white&labelColor=101010)</br> 
+  ![JavaScript](https://img.shields.io/badge/JS→React,ReactNative,NodeJS&Angular-yellow?style=forthebadge&logo=Javascript&logoColor=white&labelColor=101010)</br> 
  
  
  
