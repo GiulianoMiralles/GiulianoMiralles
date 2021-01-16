@@ -4,7 +4,13 @@
 <img src=https://i.imgur.com/Qoyoqd5.png/>
 
 
-I am a programmer, I studied at ITEC, currently focused on the backend part, but I have a lot of knowledge in React, React-Native, NodeJS, Angular. I handle databases like MySql. Experience agile methodologies like SCRUM. I have experience in both web and mobile programming.
+• I am a senior software development technician and I also consider myself a very self-taught person.
+
+• I am characterized by being a collaborative person, wanting to develop and who establishes a good climate in the field of teamwork. I like to learn new skills and knowledge, mainly related to programming and computing. I am comfortable coding on both sides: frontend and backend. Also, I am a huge fan of DevOps.
+
+• Skills: I work with various technologies, but mainly with Python, PHP and JavaScript. I also have experience with web technologies like HTML, CSS, Nodejs, Angular, React, React Native, and database technologies like MySQL.
+
+• Experience with agile methodologies such as SCRUM. I have experience in web and mobile programming.
 
 ## Skills: </br> 
 ![python](https://img.shields.io/badge/Python_→_Flask-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br> 
