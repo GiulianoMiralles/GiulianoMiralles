@@ -8,7 +8,7 @@
 
 • I am characterized by being a collaborative person, wanting to develop and who establishes a good climate in the field of teamwork. I like to learn new skills and knowledge, mainly related to programming and computing. I am comfortable coding on both sides: frontend and backend. Also, I am a huge fan of DevOps.
 
-• Skills: I work with various technologies, but mainly with Python, PHP and JavaScript. I also have experience with web technologies like HTML, CSS, Nodejs, Angular, React, React Native, and database technologies like MySQL.
+• Skills: I work with various technologies, but mainly with Python, PHP and JavaScript. I also have experience with web technologies like HTML, CSS, Nodejs, Angular, React, React Native, and database technologies like MySQL and MongoDB.
 
 • Experience with agile methodologies such as SCRUM. I have experience in web and mobile programming.
 
