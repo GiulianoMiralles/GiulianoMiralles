@@ -4,7 +4,7 @@
 <img src=https://i.imgur.com/Qoyoqd5.png/>
 
 
-• I am a senior software development technician and I also consider myself a very self-taught person.
+• I am a software development technician and, in addition, I also consider myself a very self-taught person.
 
 • I am characterized by being a collaborative person, wanting to develop and who establishes a good climate in the field of teamwork. I like to learn new skills and knowledge, mainly related to programming and computing. I am comfortable coding on both sides: frontend and backend. Also, I am a huge fan of DevOps.
 
