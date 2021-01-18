@@ -29,7 +29,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)</br>
+![Linux](https://img.shields.io/badge/Linux_→_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
 
 
 
