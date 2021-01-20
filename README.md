@@ -1,4 +1,4 @@
-### Hi there 👋, hello there my name is Giuliano Miralles! 
+### Hi there 👋, my name is Giuliano Miralles! 
 #### Software developer 💻
 
 <img src=https://i.imgur.com/Qoyoqd5.png/>
