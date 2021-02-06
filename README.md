@@ -10,7 +10,7 @@
 
 • Skills: I work with various technologies, but mainly with Python, PHP and JavaScript. I also have experience with web technologies like HTML, CSS, Nodejs, Angular, React, React Native, and database technologies like MySQL and MongoDB.
 
-• Experience with agile methodologies such as SCRUM. I have experience in web and mobile programming.
+• Experience with agile methodologies such as SCRUM. I have experience in web and mobile programming. (Full experience in: https://www.linkedin.com/in/giuliano-miralles-889ab4171/?locale=en_US)
 
 ## Skills: </br> 
 ![python](https://img.shields.io/badge/Python_→_Flask-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br> 
