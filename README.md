@@ -17,7 +17,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP_→_Laravel-777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)</br> 
 
-![JavaScript](https://img.shields.io/badge/JavaScript_→_React_ReactNative_Angular_&_NodeJS-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=101010)</br>
+![JavaScript](https://img.shields.io/badge/JavaScript_→_NodeJS_&_ReactNative-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=101010)</br>
  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)</br> 
 
