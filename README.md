@@ -33,11 +33,9 @@
 
 ![Linux](https://img.shields.io/badge/Linux_→_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
 
-![Amazon](https://img.shields.io/badge/AWS→_Lambda_ApiGateway_DynamoDB_C3_EC2_&_CloudWatch-232F3E?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)</br>
+![Amazon](https://img.shields.io/badge/AWS_→_Lambda_ApiGateway_DynamoDB_C3_EC2_&_CloudWatch-232F3E?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)</br>
 
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=101010)</br>
-
-
 
 - 🔭 I am currently looking for work
 - 📫 How to reach me: giuliano.miralles@gmail.com 
