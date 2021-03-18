@@ -23,6 +23,8 @@
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)</br>
 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)</br>
+
 ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white&labelColor=101010)</br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)</br>
@@ -30,6 +32,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
 
 ![Linux](https://img.shields.io/badge/Linux_→_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
+
+![Amazon](https://img.shields.io/badge/AWS→_Lambda_ApiGateway_DynamoDB_C3_EC2_&_CloudWatch-232F3E?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)</br>
+
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=101010)</br>
 
 
 
