@@ -17,7 +17,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP_→_Laravel-777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)</br> 
 
-![JavaScript](https://img.shields.io/badge/JavaScript_→_NodeJS_ReactNative_React_&_Angular-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=101010)</br>
+![JavaScript](https://img.shields.io/badge/JavaScript_→_NodeJS_ReactNative_&_React-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=101010)</br>
  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)</br> 
 
@@ -31,7 +31,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
 
-![Linux](https://img.shields.io/badge/Linux_→_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
+![Linux](https://img.shields.io/badge/Linux_→_Ubuntu_&_MacOS-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
 
 ![Amazon](https://img.shields.io/badge/AWS_→_Lambda_ApiGateway_DynamoDB_C3_EC2_&_CloudWatch-232F3E?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)</br>
 
